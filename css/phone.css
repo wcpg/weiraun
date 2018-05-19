@@ -1,0 +1,183 @@
+@charset "utf-8";
+.header{
+	
+	margin: 16px 15px 13px 5px;
+	height: 24px;
+}
+.logo{
+	width: 115px;
+	height: 24px;
+	background: url(../images/phone_logo.jpg);
+}
+.hd_cd{
+	font-size: 0;
+}
+.hd_cd em{
+	width: 23px;
+	height: 17px;
+	display: inline-block;
+	background: url(../images/caidan.jpg);
+	vertical-align: bottom;
+	margin: 0 15px 0 5px;
+}
+.hd_cd i{
+	width: 18px;
+	height: 18px;
+	display: inline-block;
+	background: url(../images/fdj.jpg);
+	vertical-align: bottom;
+
+}
+.hd_cd a{
+	color: #1570A5;
+	font-size: 18px;
+}
+.hd_ipt{
+	display: none;
+}
+
+.nav li{
+	
+	background-color: #1570A5;
+	margin-bottom: 1px;
+	line-height: 40px;
+}
+.nav dl{
+	width: 100%;
+	height: 120px;
+	z-index: 2;
+	background-color: #fff;
+	display: none;
+}
+.nav dl dd:hover{
+	background-color: #1570A5;
+}
+.nav li a{
+	margin-left: 11px;
+	color: #fff;
+}
+
+.ban_img img{
+	width: 100%;	
+}
+.ban_text{
+	background-color: #1570A5;
+	height: 140px;
+	color: #fff;
+	padding: 12px 45px 0 38px;
+}
+.ban_text h6{
+	margin-bottom: 15px;
+	font-size: 28px;
+	font-weight: normal;
+}
+.pad_img{
+	display: none;
+}
+.m_img p{
+
+	margin: 17px 5px 11px 5px;
+	color:#1473A1;
+	font-size: 15px;
+}
+.m_img img{
+
+	width: 100%;
+}
+.m_img .pad_img2{
+	display: none;
+}
+.connet ul{
+
+	padding-left: 15px;
+	margin-top: 55px;
+	padding-right: 20px;
+}
+.connet ul li{
+
+	float: left;
+	width: 33%;
+	
+}
+.connet ul  li:nth-child(3){
+
+	margin-right: 0;
+}
+
+.c_cnt{
+
+	display: none;
+}
+.footer  .ft_t{
+	padding: 35px 5px 33px 5px;
+	background-color: #1570A5;
+	margin-top: 28px;
+}
+.footer  .ft_t img{
+
+	width: 100%;
+}
+.footer  .ft_t h4{
+
+	line-height: 90px;
+	font-size: 36px;
+	font-weight: normal;
+	color:#fff;
+}
+.footer  .ft_t  p{
+
+	margin-bottom: 18px;
+	font-size: 18px;
+	color:#fff;
+	float: none;
+}
+.footer  .ft_t .ft_timg1{
+
+	display: none;
+}
+.footer ul li{
+	float: none;
+}
+.footer ul li .pd{
+
+	line-height: 49px;
+	font-size: 22px;
+}
+.footer ul li div{
+	
+	background: url(../images/ph_img6.jpg) no-repeat left center;
+	padding-left: 35px;
+	margin-bottom: 31px;
+	font-size: 16px;
+}
+.footer ul li .pl{
+
+	
+	line-height: 15px;
+	font-size: 16px;
+}
+.footer ul li .pl:nth-child(1){
+
+	margin-top: 30px;
+}
+.footer ul li .pp{
+
+	line-height: 15px;
+	font-size: 16px;
+	background:url(../images/qiu.jpg) no-repeat left center;
+	padding-left: 34px;
+	margin-bottom: 35px;
+
+}
+.footer ul li .pp1 a{
+
+	display: inline-block;
+	width: 33.333%;
+}
+.footer ul .li a{
+
+	color:#000;
+}
+.footer ul li .pp:nth-child(1){
+
+	margin-top: 30px;

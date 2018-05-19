@@ -1,0 +1,150 @@
+@charset "utf-8";
+.hd_phone{
+	display: none;
+}
+.hd_ipt input{
+	width: 242px;
+	height: 26px;
+	border:1px solid black;
+	background: url(../images/fdj.jpg) 218px center no-repeat;
+}
+.hd_ipt{
+	display: block;
+}
+.nav li{
+	float: left;
+	margin-right: 30px;
+	background-color: #fff;
+	position: relative;
+	
+}
+.nav dl{
+	position: absolute;
+	left:10px; top:100%;
+	background-color: green;
+	color: #fff;
+	text-align: center;
+}
+.nav li a{
+	color: black;
+}
+.ph_img{
+	display: none;
+}
+.pad_img{
+	display: block;
+}
+
+.m_img .ph_img2{
+	display: none;
+}
+.m_img{
+	float: left;
+	margin: 11px 0  13px  17px;
+}
+.m_img .pad_img2{
+
+	float: left;
+	display: block;	
+}
+.connet ul{
+
+	display: none;
+}
+.liaojie{
+	padding: 0 13px;
+}
+.liaojie h6{
+
+	font-size: 30px;
+	color:#000;
+	font-weight: normal;
+	margin: 27px 0  25px 0
+}
+.liaojie a{
+
+	margin-right: 20px;
+}
+.connet .p1{
+
+	padding: 23px 13px 17px  13px;
+}
+.connet .p1 a{
+	margin-right: 8px;
+	display: inline-block;
+	width: 94px;
+	height: 29px;
+	text-align: center;
+	line-height: 29px;
+}
+.connet .active{
+
+	background-color: #1570A6;
+	color:#fff;
+}
+.connet ol li {
+	margin-bottom: 39px;
+}
+.connet ol li div{
+	
+	float: right;
+	color:#1570A6;
+	margin-right: 300px;
+	
+}
+.xizai{
+	padding: 55px 13px 0 13px;
+	float: none;
+}
+.xizai h5{
+
+	font-size: 26px;
+	color:#000;
+	font-weight: normal;
+	margin-bottom: 33px;
+}
+.xizai p{
+
+	line-height: 30px;
+	color:#1570A6;
+}
+.c_cnt{
+
+	display: block;
+}
+.ft_t .ft_timg{
+	display: none;
+}
+
+.footer  .ft_t  p{
+
+	float: left;
+	margin-bottom: 0;
+}
+.footer  .ft_t .ft_timg1{
+
+	display:block;
+	float: none;
+}
+.footer  .ft_t  .div{
+
+	float: none;
+	
+}
+.footer ul .l1{
+	float: left;
+}
+.footer ul .l3{
+	
+
+	}
+.footer ul .l3 ul {
+
+	float: left;
+	margin-left: 300px;
+}
+
+ul{
+	margin: 0;
+	padding: 0;
+}

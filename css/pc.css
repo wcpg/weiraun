@@ -1,0 +1,78 @@
+@charset "utf-8";
+.gWidth{
+
+	width: 990px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.hd_ipt input{
+	width: 380px;
+	height: 26px;
+	border:1px solid black;
+	background-position: 360px center;
+}
+.banner{
+	position: relative;
+}
+.ban_text{
+	width: 312px;
+	height: 208px;
+	position: absolute;
+	left:50%; top:20px;
+	margin-left: -470px;
+}
+.m_img .pad_img2{
+
+	width: 313px;
+	height: 165px;
+}
+.liaojie{
+
+	float: left;
+}
+.liaojie h5{
+
+	float: left;
+	
+}
+.liaojie a{
+
+	display: block;
+	margin-right: 0;
+}
+.c_cnt ol li{
+	margin-right: 12px;
+}
+.c_cnt ol li div{
+
+	float: none;
+	margin-right: 0
+	
+}
+.c_cnt ol  li :nth-child(3){
+	
+	margin-right: 0;
+}
+.x1{
+
+	margin-left: 80px;
+}
+.xizai {
+	float: left;
+	margin-right: 118px;
+}
+ .footer .ft_ctr ul li{
+
+ 	float: left;
+ 	margin-right: 89px;
+ }
+  .footer .ft_ctr ul .l3 ul {
+
+  	display: inline-block;
+  	
+  }
+  .footer .ft_ctr ul .l3 ul li{
+
+  	display: inline-block;
+  	
+  }
